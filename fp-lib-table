@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PDB17)(type KiCad)(uri "$(KIPRJMOD)/PDB17.pretty")(options "")(descr ""))
+)
